@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a freelance Data and Cloud Architect specializing in designing, building, and enhancing cloud data platforms and pipelines for clients. In my free time, I enjoy playing baseball at my local sports club.
+
+* 😄 Pronouns: he/him
+  
 <!--
 **ceeroonine/ceeroonine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
